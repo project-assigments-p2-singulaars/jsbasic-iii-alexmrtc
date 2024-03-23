@@ -66,14 +66,3 @@ function reverseArray(givenArray) {
 
     return reveresedArray;
 }
-
-
-// console.log(arrayAverage([2,3,4,1,10,6]));
-// console.log(sortArrayValues([2,3,4,1,10,6]));
-// console.log(getHigherValuesInArray([2,3,4,1,10,6], 3));
-// console.log(arrayConcatenation([2,10,6], [3,2]));
-// console.log(getMaxValueInArray([2,10,6, 23]));
-// console.log(getMinValueInArray([2,10,6, 23]));
-// console.log(getNumberOfElementInArray([2,10,6, 23, 2, 10, 2], 1));
-// console.log(removeDuplicatesFromArray([2,6,10,6, 23, 2, 10, 2]));
-// console.log(reverseArray([2,6,10,23]));

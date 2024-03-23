@@ -61,11 +61,3 @@ function addUppercaseToFirstLetters(givenString) {
 
     return slicedString.join(" ");
 }
-
-// console.log(concatenation("Hola ", "Mundo"))
-// console.log(createUpperCaseString("hskadljl"))
-// console.log(getCharAtPosition("hskadljl", 3))
-// console.log(invertString("hello"))
-// console.log(countCharAtString("hello", "l"))
-// console.log(checPalyndrome("hellolleh"))
-// console.log(addUppercaseToFirstLetters("Hola mundo, como estás?"))

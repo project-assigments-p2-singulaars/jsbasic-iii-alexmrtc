@@ -54,13 +54,3 @@ function mergeObject(givenObject1, givenObject2) {
 
     return mergedObject;
 }
-
-// console.log(getName({nombre: "ALEX"}));
-// updateAge({edad: 23}, 24);
-// addNewProperty({nombre: "ALEX", edad: 23}, "profesión");
-// removeProperty({nombre: "ALEX", edad: 23, profesión: "PROGRAMADOR"}, "profesión");
-// console.log(getNumberOfProperties({nombre: "ALEX", edad: 23, profesión: "PROGRAMADOR"}));
-// console.log(doesContainPropery({nombre: "ALEX"}, "nombre"));
-// console.log(returnObjectValues({nombre: "ALEX", edad: 23, profesión: "PROGRAMADOR"}));
-// console.log(createObjectCopy({nombre: "ALEX", edad: 23}));
-// console.log(mergeObject({nombre: "ALEX", edad: 23}, {profesión: "PROGRAMADOR", edad: 24}));
